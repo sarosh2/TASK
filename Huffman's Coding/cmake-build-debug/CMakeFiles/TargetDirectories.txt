@@ -1,0 +1,3 @@
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/cmake-build-debug/CMakeFiles/Huffman_s_Coding.dir
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/cmake-build-debug/CMakeFiles/rebuild_cache.dir

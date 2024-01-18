@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/HeapNodes.h
+
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/LinkedList.h
+iostream
+-
+
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/MinHeap.h
+iostream
+-
+HeapNodes.h
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/HeapNodes.h
+
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/Queue.h
+iostream
+-
+
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/TextDecompressor.cpp
+TextDecompressor.h
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/TextDecompressor.h
+cmath
+-
+
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/TextDecompressor.h
+iostream
+-
+fstream
+-
+sstream
+-
+LinkedList.h
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/LinkedList.h
+MinHeap.h
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/MinHeap.h
+Queue.h
+C:/Users/dell/Downloads/Huffman's Coding 30th, Sarosh/Huffman's Coding/Queue.h
+
